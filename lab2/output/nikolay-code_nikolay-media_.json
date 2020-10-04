@@ -1,0 +1,26 @@
+{
+    "frame": {
+        "original": {
+            "distance": 31.95418488532689,
+            "time": 0.049895677857726584,
+            "features_amount_ratio": 0.4532420743943977
+        },
+        "scaled60percents": {
+            "distance": 37.38698298776673,
+            "time": 0.016716329256693523,
+            "features_amount_ratio": 0.32732156674413887
+        },
+        "scaled200percents": {
+            "distance": 39.26510700744677,
+            "time": 0.22717016696929931,
+            "features_amount_ratio": 0.30621932888092646
+        }
+    },
+    "noframe": {
+        "original": {
+            "distance": 40.22698875775723,
+            "time": 0.038325779778616766,
+            "features_amount_ratio": 0.3524785182547236
+        }
+    }
+}
